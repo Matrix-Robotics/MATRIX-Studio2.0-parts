@@ -33,7 +33,7 @@ Link: https://github.com/Matrix-Robotics/MATRIX-Studio2.0-parts
 4.	find the Stud.io directory on your machine. 
 
 * `Windows:`
-C:\Users\[user name]\AppData\Local\Stud.io
+C:\Users\ _user name_ \AppData\Local\Stud.io
 * `macOS:`
     * If you installed Stud.io globally, it should be: <br>
     [user name]/Applications/Studio 2.0/Stud.io

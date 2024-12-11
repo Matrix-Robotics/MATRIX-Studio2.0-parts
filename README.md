@@ -11,7 +11,7 @@ This repository provides comprehensive usage instructions for MATRIX components 
 
 If you are new to Studio 2.0, then you shohld consider reviewing the [Studio Getting Started](https://studiohelp.bricklink.com/hc/en-us/categories/5404814688023-Getting-Started) to get familiar with how to use the Application software.
 
-Complete installation and usage Documentation are at [/doc](/doc/README.md).
+Complete installation and usage Documentation are at [/docs](/docs/README.md).
 
 ## Downloading the Project
 
