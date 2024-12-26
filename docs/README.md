@@ -1,5 +1,8 @@
 # MATRIX Building System Studio 2.0 User Manual
 
+> [!NOTE]
+> Full Demonstration Video. [Click here](https://www.youtube.com/watch?v=aRlPg_Nd_iE)
+
 ### Step1: Download Studio 2.0
 
 1.	Visit the BrickLink website. 
